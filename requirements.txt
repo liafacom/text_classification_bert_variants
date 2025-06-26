@@ -1,0 +1,8 @@
+wandb==0.17.4
+seaborn==0.13.2
+scikit-learn==1.5.1
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.1
+transformers==4.51.2
+tqdm==4.66.4
