@@ -107,9 +107,11 @@ python3 benchmark_transformers_classic.py --seed 0 --dataset MR --epochs 10 --ba
 
 Link para as rodadas dos experimentos no Wandb: 
 [Experimentos](https://wandb.ai/elitonperin/transf-benchmark-clf-classic/)
-Filtre pela tag: paper2. As demais tags foram usadas para teste.
 
-Para melhor visualização, agrupe por: dataset_name, transformer_model_name, embedding_type; Selecione as colunas de interesse: test_accuracy.
+Obs.: Filtre pela tag: paper2. 
+As demais tags foram usadas para teste.
+Para uma visualização melhor, agrupe por: dataset_name, transformer_model_name, embedding_type.
+Selecione as colunas de interesse, por exemplo: test_accuracy.
 
 ![alt text](image.png)
 
