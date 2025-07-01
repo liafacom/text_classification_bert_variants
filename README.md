@@ -115,3 +115,6 @@ Selecione as colunas de interesse, por exemplo: test_accuracy.
 
 ![alt text](image.png)
 
+### Gráficos, Figuras e Análises 
+
+Um Colab foi produzido para comparar resultados em gráficos, figuras e tabelas e estão disponíveis [aqui](https://colab.research.google.com/drive/13xw6s1rPGGcRL_bgHdJOVM5JFKasD3gW?usp=sharing).
